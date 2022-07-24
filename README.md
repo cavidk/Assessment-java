@@ -1,4 +1,5 @@
-# Assessment-java
+# Assessment-java 
+(Digirella)
 
 
 General description
@@ -18,6 +19,8 @@ General description
  <b>- Obtaining the exchange rate of the Azerbaijani manat against the selected currency on the selected date   >> Done
  <b>- Obtaining the exchange rate of the Azerbaijani manat against all foreign currencies on the selected date;  >>Done
  <b>- Acquisition of the exchange rate of the Azerbaijani manat against the selected foreign currency on all dates. >>Done
+ 
+ 
  
  >>For Application UI 
      >> Swagger implementation has used;
