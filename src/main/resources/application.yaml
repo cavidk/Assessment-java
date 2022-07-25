@@ -3,8 +3,8 @@ spring:
     type: com.zaxxer.hikari.HikariDataSource
     driverClassName: org.postgresql.Driver
     url: jdbc:postgresql://localhost:5432/currencydata
-    username: postgres
-    password: kazimzade98
+    username: 
+    password: 
   jpa:
     database: postgresql
     open-in-view: false
